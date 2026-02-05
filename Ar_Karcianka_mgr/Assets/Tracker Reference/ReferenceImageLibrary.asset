@@ -23,7 +23,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 13863288988003430808
       m_GuidHigh: 3858433095334803563
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+    m_Size: {x: 0.16966933, y: 0.24}
+    m_SpecifySize: 1
     m_Name: Timon
     m_Texture: {fileID: 0}

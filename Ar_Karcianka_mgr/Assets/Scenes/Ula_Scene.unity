@@ -397,10 +397,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1093182720}
   - component: {fileID: 1093182719}
-  - component: {fileID: 1093182721}
   - component: {fileID: 1093182722}
   - component: {fileID: 1093182723}
   - component: {fileID: 1093182724}
+  - component: {fileID: 1093182721}
   m_Layer: 0
   m_Name: XR Origin
   m_TagString: Untagged
@@ -457,8 +457,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_SerializedLibrary: {fileID: 11400000, guid: bc28482d61d46e646b48046d98e9d03d, type: 2}
-  m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 0}
+  m_MaxNumberOfMovingImages: 1
+  m_TrackedImagePrefab: {fileID: 3701303244676710444, guid: 52162b93054f4a74faa78396e3cfc246, type: 3}
 --- !u!114 &1093182722
 MonoBehaviour:
   m_ObjectHideFlags: 0
